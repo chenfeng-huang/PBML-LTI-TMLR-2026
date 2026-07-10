@@ -1,0 +1,5 @@
+data/*.npz
+data/**/*.npz
+
+# setuptools / editable-install metadata
+*.egg-info/
